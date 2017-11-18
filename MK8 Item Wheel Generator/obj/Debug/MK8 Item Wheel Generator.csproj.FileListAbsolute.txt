@@ -1,0 +1,10 @@
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\bin\Debug\MK8 Item Wheel Generator.exe.config
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\bin\Debug\MK8 Item Wheel Generator.exe
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\bin\Debug\MK8 Item Wheel Generator.pdb
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\obj\Debug\MK8_Item_Wheel_Generator.Form1.resources
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\obj\Debug\MK8_Item_Wheel_Generator.Properties.Resources.resources
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\obj\Debug\MK8 Item Wheel Generator.csproj.GenerateResource.Cache
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\obj\Debug\MK8 Item Wheel Generator.csproj.CoreCompileInputs.cache
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\obj\Debug\MK8 Item Wheel Generator.exe
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\obj\Debug\MK8 Item Wheel Generator.pdb
+D:\VS\MK8 Item Wheel Generator\MK8 Item Wheel Generator\obj\Debug\MK8 Item Wheel Generator.csprojResolveAssemblyReference.cache
