@@ -157,10 +157,6 @@ namespace MK8_Item_Wheel_Generator
                 {
                     button += 0x400;
                 }
-                if (Gamepad_DDown)
-                {
-                    button += 0x100;
-                }
                 if (Gamepad_RUp)
                 {
                     button += 0x1000000;
